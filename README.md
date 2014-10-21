@@ -1,4 +1,3 @@
 mapp
 ====
-
-mapp plist 
+苹果的app安装plist文件
